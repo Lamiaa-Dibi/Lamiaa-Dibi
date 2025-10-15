@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Mobile Application developer!</h3>
 
 </br>
-- 🌱 I’m currently learning **Version Control** and **Data Analytics**
+- 🌱 I’m currently learning **WordPress**
 
 - 📫 How to reach me **lama.deebe15@gmail.com**
 
